@@ -1,6 +1,6 @@
 # taskMate.github.io
 
-#Support Center
+                                                         Support Center
 
 Welcome to our Task Mate App Support Center. We're here to assist you in getting the most out of our app and ensuring your experience is smooth and productive. If you have any questions, concerns, or need assistance, you've come to the right place.
 
@@ -36,7 +36,7 @@ Stay up to date with the latest app updates and news. We regularly post announce
 Thank you for choosing our TODO app. We're here to make your life more organized and efficient. If you ever encounter any issues or need assistance, don't hesitate to reach out. Your productivity is our priority!
 
 
-#Privacy Policy
+                                                                    Privacy Policy
 
 Effective Date: 12 Oct, 2023
 
@@ -95,7 +95,7 @@ This Privacy Policy is effective as of the date mentioned at the beginning of th
 Thank you for choosing our TODO app. Your privacy is important to us, and we're committed to providing you with a secure and efficient task management experience.
 
 
-#Certificate of Excellence
+                                                            Certificate of Excellence
 
 This is to certify that TaskMate has demonstrated excellence in the field of task management. With an intuitive user interface, robust features, and a commitment to user privacy, TaskMate has proven to be a valuable tool for personal and professional organization.
 
